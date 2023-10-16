@@ -77,7 +77,7 @@ keywords:
 
 # Book a Demo {.original data-background-image="images/iStock-1377749663.jpg"}
 
-![](images/demo_code.png)
+<img src="images/demo_code.png" width="400"/> <img src="images/BEST.png" width="400"/>
 
 
 
